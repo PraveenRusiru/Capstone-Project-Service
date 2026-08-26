@@ -9,7 +9,7 @@ module.exports = {
   },
       {
           name   : "Programme-service",
-          script : "java -jar ./Programme-service/target/Programme-Service-1.0.0.jar",
+          script : "java -jar ./Programme-service/target/Program-Service-1.0.0.jar",
           error_file: "./log/programme-service-error.log",
           out_file: "./log/programme-service-out.log",
           instances: 2,
